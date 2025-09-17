@@ -3,11 +3,12 @@
 ## 简介
 PHOENIX嵌入式文档
 
-## 指南
-1. [查看结构问题](find_assembly_problems.md)
-2. [走线规范](robot_wiring_guide.md)
-3. [Git教学](use_of_git.md)
-4. [代码规范](code_standards.md)
+## 目录
+1. [一些常见问题](debug.md)
+2. [查看结构问题](find_assembly_problems.md)
+3. [走线规范](robot_wiring_guide.md)
+4. [Git教学](use_of_git.md)
+5. [代码规范](code_standards.md)
 
 ## 欢迎补充
 **如果你觉得有什么地方可以补充或说明有误，欢迎补充**   
