@@ -4,13 +4,17 @@
 PHOENIX嵌入式文档
 
 ## 目录
-1. [一些常见问题](debug.md)
-2. [查看结构问题](find_assembly_problems.md)
-3. [走线规范](robot_wiring_guide.md)
-4. [Git教学](use_of_git.md)
-5. [代码规范](code_standards.md)
-6. [一些不太常见的问题](problems.md)
-7. [Cotrtex_M内核知识](2025-09-22-浅谈Cortex-M内核.md)
+
+官方文档：存放一些成品手册，方便查找
+新生培训：存放一些新生培训资料
+1. [一些常见问题](常见问题.md)
+2. [查看结构问题](查找结构问题.md)
+3. [走线规范](走线规范.md)
+4. [Git教学](git的使用.md)
+5. [代码规范](代码规范.md)
+6. [如何查找手册](如何查找手册.md)
+7. [一些不太常见的问题](problems.md)
+8. [Cotrtex_M内核知识](2025-09-22-浅谈Cortex-M内核.md)
 ## 欢迎补充
 **如果你觉得有什么地方可以补充或说明有误，欢迎补充**   
 联系邮箱：[hewenxuan040923@gmail.com](https://mail.google.com/mail)
