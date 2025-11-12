@@ -9,7 +9,8 @@ PHOENIX嵌入式文档
 3. [走线规范](robot_wiring_guide.md)
 4. [Git教学](use_of_git.md)
 5. [代码规范](code_standards.md)
-
+6. [一些不太常见的问题](problems.md)
+7. [Cotrtex_M内核知识](2025-09-22-浅谈Cortex-M内核.md)
 ## 欢迎补充
 **如果你觉得有什么地方可以补充或说明有误，欢迎补充**   
 联系邮箱：[hewenxuan040923@gmail.com](https://mail.google.com/mail)
