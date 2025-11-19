@@ -1,16 +1,4 @@
----
-layout:     post
-title:      浅谈Cortex-M内核
-subtitle:   STM32学习笔记
-date:       2025-09-22
-author:     BY CGH
-header-img: img\arm-history.png
-catalog: true
-tags:
-    - 嵌入式
-    - 编程
----
-
+贡献者：chenguanheng
 #  前言
 随着对stm32以及其RTOS的深入，我逐渐意识到要真正深刻地了解其工作原理，对其cortex-m内核的了解是必须的。因此，我在学习过程中编写了如下笔记，希望能对后人有所帮助。
 # ARM架构内核发展史
